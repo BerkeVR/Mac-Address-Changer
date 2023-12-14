@@ -9,7 +9,7 @@ MyMacChanger, basit bir Python betiği olan bir araçtır ve ağ arayüzünün M
 2. **Kodu Çalıştırma:**
    - Terminal veya komut istemcisine şu komutu girerek aracı kullanabilirsiniz:
      ```bash
-     python Mac_Changer.py -interface eth0 -mac [Yeni MAC Adresi]
+     python Mac_Changer.py -interface eth0 --mac [Yeni MAC Adresi]
      ```
      Örneğin:
      ```bash
